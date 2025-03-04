@@ -14,7 +14,7 @@ All the work conducted had the aim of optimization. Infact, each question has be
 ## Files
 The `Assignment` folder contains all the details about the requests of each question, togheter with an image of the expected plot that my code should produce after the training.
 
-The 'Code' folder presents the actual code, divided by question. In it, are also available the plots produced by each question's implementation.
+The `Code` folder presents the actual code, divided by question. In it, are also available the plots produced by each question's implementation.
 
 Also, the `Final_report.pdf` file describes the approach followed when developing such questions, explaining the decisions taken, with an eye on the over/under fitting possibilities, and all the performance results of such implementations (both in time and precision).
 The report also provides various graphs and comments about the development, including comparisons between all the developed techiniques.
